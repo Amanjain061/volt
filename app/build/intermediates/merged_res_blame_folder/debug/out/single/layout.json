@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ocr_recognization.xml",
+        "source": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\activity_ocr_recognization.xml"
+    },
+    {
+        "merged": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\android_dev\\examples-master (1)\\examples-master\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
